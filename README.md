@@ -30,4 +30,5 @@
 
 5. 适配各种设备，随时随地观看
 我们的平台支持PC端、手机、平板等多种设备，用户可以随时随地享受优质内容。无论你是在家中舒适地观看，还是在外出途中使用手机，平台都能自动适配你的设备，确保画面清晰流畅。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/hjl678/6767 ）</span>
